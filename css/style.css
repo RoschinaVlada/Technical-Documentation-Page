@@ -63,9 +63,9 @@ section li {
     margin: 0;
 }
 
- code {
+code { 
     background-color: #eee;
-    display: block;
+   display: block;
     padding: 15px;
     margin: 10px;
     text-align: left;
@@ -82,4 +82,4 @@ section li {
     #nav-bar {
     width: 100%;
 }    
- }
+}
